@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : ./pyapp
+     image : dockerhub238/pyapp
      ports :
          - "8000:8000"
