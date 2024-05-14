@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : public.ecr.aws/u9q5v8a1/jenkins:latest
+     image : public.ecr.aws/u9q5v8a1/jenkins:new
      ports :
          - "8000:8000"
