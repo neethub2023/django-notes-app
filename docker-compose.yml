@@ -1,4 +1,4 @@
-version : "1.27"
+version : "2.2"
 services :
   web :
      image : dockerhub238/pyapp:latest
