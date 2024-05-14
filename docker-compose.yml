@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : dockerhub238/pyapp:latest
+     image : public.ecr.aws/u9q5v8a1/jenkins:latest
      ports :
          - "8000:8000"
