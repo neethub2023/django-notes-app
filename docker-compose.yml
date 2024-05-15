@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : public.ecr.aws/u9q5v8a1/jenkins:new
+     image : 905418296316.dkr.ecr.ap-south-1.amazonaws.com/myrepo:latest
      ports :
          - "8000:8000"
